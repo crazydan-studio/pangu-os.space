@@ -9,7 +9,7 @@ const config = {
   title: '盘古OS',
   tagline: '以数据结构化和应用函数化为核心设计原则的面向未来的用户操作系统',
   favicon: 'img/icon.svg',
-  url: 'https://pangu-os.space',
+  url: 'https://home.pangu-os.space',
   baseUrl: '/',
   organizationName: 'Crazydan Studio',
   projectName: 'PanGu OS',
